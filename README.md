@@ -14,6 +14,8 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 
 
 ### OUTPUT:
+![output](./Output.png)
 
 
 ### RESULT:
+Thus the python program for distance between two points is executed successfully
