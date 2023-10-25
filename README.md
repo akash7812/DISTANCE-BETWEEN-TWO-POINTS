@@ -32,7 +32,7 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
-![output](./Output.png)
+![output](Output.png)
 
 
 ### RESULT:
